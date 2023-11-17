@@ -1,0 +1,17 @@
+.cardC {
+  width: 98%;
+  padding: 1%;
+  margin: 0 auto;
+  background: linear-gradient(
+    to right,
+    black,
+    rgb(22, 104, 172),
+    rgb(196, 19, 19),
+    black
+  );
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 0 0 5px black;
+}
